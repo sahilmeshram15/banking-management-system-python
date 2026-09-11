@@ -24,5 +24,6 @@ A simple Banking Management System developed using Basic Python.
 3. Open the project folder in terminal.
 4. Run:
 
+```bash
 python banking_system.py
-
+```
