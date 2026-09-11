@@ -79,6 +79,7 @@ It is not intended for use as a real banking application.
 ## 👨‍💻 Author
 
 **Sahil Meshram**
+
 ⭐ If you find this project useful, consider giving the repository a **star**!
 
 GitHub:
