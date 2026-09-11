@@ -16,6 +16,10 @@ This project demonstrates basic banking operations using Python functions, lists
 * 📜 View transaction history
 * ❌ Exit the application
 
+## 📸 Project Screenshot !
+
+[Banking Management System](banking-system-screenshot.png)
+
 ## 🛠️ Technologies Used
 
 * Python
